@@ -10,3 +10,12 @@ Covered skills set
 * Calculate skew and correlation
 * Basic Data Visualization
 * How to fix missing values
+
+# Project2
+Covered skills set
+
+* Linear Regression
+* Logistic Regression
+* Ploting data
+* Fold Cross Validation
+* MSE, R-Square
