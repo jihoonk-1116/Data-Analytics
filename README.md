@@ -1,5 +1,4 @@
-# Data-Analytics
-CS381 - Data Analytics class
+# Data-Analytics class
 
 # Project1 
 Covered skills set
@@ -17,5 +16,7 @@ Covered skills set
 * Linear Regression
 * Logistic Regression
 * Ploting data
+* Plotfactor
 * Fold Cross Validation
 * MSE, R-Square
+* Using dummy data for categorical variables
