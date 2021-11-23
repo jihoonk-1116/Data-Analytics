@@ -21,7 +21,7 @@ Covered skills set
 * MSE, R-Square
 * Using dummy data for categorical variables
 
-# Project2
+# Project3
 Covered skills set
 
 * Support Vector Machine
