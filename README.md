@@ -20,3 +20,10 @@ Covered skills set
 * Fold Cross Validation
 * MSE, R-Square
 * Using dummy data for categorical variables
+
+# Project2
+Covered skills set
+
+* Support Vector Machine
+* Decision Tree
+* Random Forest Classifier
