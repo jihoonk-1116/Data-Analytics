@@ -27,3 +27,6 @@ Covered skills set
 * Support Vector Machine
 * Decision Tree
 * Random Forest Classifier
+
+# Final Project
+
