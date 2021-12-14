@@ -29,4 +29,11 @@ Covered skills set
 * Random Forest Classifier
 
 # Final Project
-
+Covered skills set
+* EDA, Pre-data processing
+* Basic exploration of relationship, with plots and graphs
+* Separated data set into training and testing
+* Setup dummy variables to take care categorical variables
+* Normalize numerical features if needed
+* SVM, LogisticRegression, RandomForestClassifier
+* Performed cross-validations
